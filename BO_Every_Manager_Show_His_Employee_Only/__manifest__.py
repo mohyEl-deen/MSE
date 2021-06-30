@@ -13,7 +13,7 @@
     'website': "http://www.yourcompany.com",
     'company': 'Boot Solutions For Information Technology',
     "category": "Employees",
-    "license": "MIT",
+    "license": "AGPL-3",
 
 
     # Categories can be used to filter modules in modules listing
